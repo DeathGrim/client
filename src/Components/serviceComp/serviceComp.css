@@ -1,0 +1,33 @@
+.service-card h2{
+    margin-bottom: 10px;
+}
+
+.service-card p {
+    margin-bottom: 10px;
+}
+
+.service-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+
+}
+.service_nav_service{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+    transition: color.1s linear;
+}
+.service_nav {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+    transition: color.1s linear;
+}
+
